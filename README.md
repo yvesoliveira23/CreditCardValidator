@@ -34,7 +34,7 @@ This project is a Swift-based application designed to validate various credit ca
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/CreditCardValidator.git
+   git clone https://github.com/yvesoliveira23/CreditCardValidator.git
    ```
 
 2. Open the project in Xcode.
