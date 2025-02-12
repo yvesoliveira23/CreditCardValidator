@@ -33,6 +33,7 @@ This project is a Swift-based application designed to validate various credit ca
 ## Setup Instructions
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/yvesoliveira23/CreditCardValidator.git
    ```
@@ -50,11 +51,13 @@ This project is a Swift-based application designed to validate various credit ca
 ## Testing
 
 To run the unit tests, use the following command in the terminal:
+
 ```
 xcodebuild test -scheme CreditCardValidatorTests
 ```
 
 For UI tests, use:
+
 ```
 xcodebuild test -scheme CreditCardValidatorUITests
 ```
